@@ -8,3 +8,20 @@ mod_Data/
 norm_Data/
 
 
+.ica_Data/
+ica_Data/
+
+
+.pca_Data/
+pca_Data/
+
+.stand_Data/
+stand_Data/
+
+
+.stand_pca_Data/
+stand_pca_Data/
+
+
+
+
